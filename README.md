@@ -11,7 +11,7 @@ ruby details.rb 9080
 ## How to run with Docker
 
 ```bash
-# Build Docker Image for rating service
+# Build Docker Image for details service
 docker build -t details .
 
 
